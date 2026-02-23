@@ -45,5 +45,7 @@ R90分压加R88分压再接运放得电压倍数 34
 <img width="368" height="320" alt="image" src="https://github.com/user-attachments/assets/cbf4f249-00e5-4b80-bd8e-bee2e3fd6a0e" />
 
 上桥下桥靠2104驱动四个mos管输出交流电压
+二极管快速拉低G S电压
+电阻消耗寄生电容电压
 
 <img width="863" height="427" alt="image" src="https://github.com/user-attachments/assets/8af6f302-8adc-426f-9aa9-4a6a0e984dfb" />
