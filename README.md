@@ -25,7 +25,7 @@ STM32模块 输出PWM和SD  接受电压和电流数据输出到OLED显示屏
 
 <img width="447" height="628" alt="image" src="https://github.com/user-attachments/assets/d022140f-bdcf-4aa4-9133-128a31c12d7f" />
 
-STM32输出高低电平到DCOUT，通过DCOUT高低电平控制Q3三极管的导通，导通时5V输入，LED灯亮，线圈带电使2和5连接，输出低BE电压小于发射极开启电压，Q4断开，灯灭，线圈不带电
+STM32输出高低电平到DCOUT，通过DCOUT高低电平控制Q3三极管的导通，导通时5V输入，LED灯亮，线圈带电使2和5连接，输出低BE电压小于发射极开启电压，Q3断开，灯灭，线圈不带电
 
 <img width="711" height="622" alt="image" src="https://github.com/user-attachments/assets/74abdea6-74cc-4403-957b-527161fefee4" />
 
