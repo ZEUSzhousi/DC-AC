@@ -36,6 +36,7 @@ STM32控制PWM和SD的输出，通过IR204STRPBF和VS的电流和C49自举电容
 
 R90取样电阻
 R90分压加R88分压再接运放得电压倍数 34
+提供基准电压，单片机不能接收负电压会导致损坏
 
 <img width="502" height="405" alt="image" src="https://github.com/user-attachments/assets/4138b494-949e-4cb1-9830-724b604073bb" />
 
