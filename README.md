@@ -1,7 +1,4 @@
-<img width="574" height="221" alt="image" src="https://github.com/user-attachments/assets/937d8aa9-ecc6-418c-bbaa-c8073f3f40ed" /># DC-AC
-
-<img width="716" height="721" alt="image" src="https://github.com/user-attachments/assets/b13b2013-8666-41aa-abc1-60939f6e57bd" />
-
+# DC-AC
 <img width="665" height="649" alt="image" src="https://github.com/user-attachments/assets/0d1dea99-929a-447a-9356-96b30f00ec3f" />
 
 <img width="717" height="180" alt="image" src="https://github.com/user-attachments/assets/3867cbcc-06af-46af-962b-da2efc3d9cdf" />
