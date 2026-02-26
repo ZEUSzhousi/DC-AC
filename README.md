@@ -52,4 +52,5 @@ R90分压加R88分压再接运放得电压倍数 34
 二极管快速拉低G S电压
 电阻消耗寄生电容电压
 
-<img width="863" height="427" alt="image" src="https://github.com/user-attachments/assets/8af6f302-8adc-426f-9aa9-4a6a0e984dfb" />
+<img width="824" height="220" alt="image" src="https://github.com/user-attachments/assets/25e41623-90ce-4710-b97a-eccc5596ad5a" />
+
