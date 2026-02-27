@@ -1,6 +1,5 @@
 
-![eb99b36fce73c75b78a5b355dcfdabf0](https://github.com/user-attachments/assets/6f50cd12-9952-49c9-94b8-4bf25e8bd605)
-
+![eea5763f2078904d09c0a7bf4873c596](https://github.com/user-attachments/assets/02ff2cae-f601-4c85-bf90-9836ff74f43f)
 
 # DC-AC
 <img width="714" height="722" alt="image" src="https://github.com/user-attachments/assets/95c8c591-c7e9-4024-987a-84d29048215b" />
